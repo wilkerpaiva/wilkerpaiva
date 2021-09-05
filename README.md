@@ -1,21 +1,9 @@
 ## Olá! Eu sou o Wilker Paiva
 
 <div>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkerpaiva&layout=dracula"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=wilkerpaiva&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
+<a href="https://github.com/wilkerpaiva">
+  <img src="https://github-readme-stats.vercel.app/api?username=wilkerpaiva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkerpaiva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>
